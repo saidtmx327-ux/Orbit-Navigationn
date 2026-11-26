@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Orbit Navigation</string>
+
+    <string name="accessibility_description">
+        Orbit Navigation provides floating navigation controls
+        for Android devices.
+    </string>
+
 </resources>
